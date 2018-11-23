@@ -1,1 +1,1 @@
-# My first GitHub using
+# My first GitHub repository
